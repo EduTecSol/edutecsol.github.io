@@ -1,32 +1,22 @@
 ## Eduardo Albuquerque Maia
 
-You can use the [editor on GitHub](https://github.com/EduTecSol/edutecsol.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+algum texto
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Tragetória até o desenvolve
 
-### Markdown
+algum texto
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- item 1
+- outro item
 
-```markdown
-Syntax highlighted code block
+1. item enumerado
+2. outro item enumerado
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+**negrito** e _italico_
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
