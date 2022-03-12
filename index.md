@@ -17,10 +17,10 @@ _O desenvolve está sendo um mergulho profundo e gratificante num mundo que eu s
 
 Meu Progresso no Desenvolve:
 - Semana 1
-  - Lógica de programação I: os primeiros programas com Javascript e HTML
+  - [x]Lógica de programação I: os primeiros programas com Javascript e HTML
 - Semana 2
-  - Redes parte 1: Introdução, Conceitos e Prática
-  - Redes parte 2: Montando um projeto do cliente até o provedor de serviços
+  - [x]Redes parte 1: Introdução, Conceitos e Prática
+  - [x]Redes parte 2: Montando um projeto do cliente até o provedor de serviços
 - Semana 3
   - Redes parte 3: Defina as listas de controle e políticas de acesso de usuários
   - Redes parte 4: Configuração de protocolos de roteamento e IPv6
