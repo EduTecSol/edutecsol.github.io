@@ -17,6 +17,8 @@ ___
 - telemarketing na Almaviva alefetuando atendimento aos clientes pré pago da tim em 2012
 - help-desk na prefeitura de juíz de fora entre 2014 e 2015
 
+___
+
 ## Tragetória no Desenvolve
 
 _O desenvolve está sendo um mergulho profundo e enriquecedor num mundo onde eu só brincava à beira da piscina_
