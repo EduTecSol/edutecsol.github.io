@@ -5,9 +5,9 @@
 
 #### Idiomas
 
-**Português** (nativo)
+##### **Português** (nativo)
 
-**Inglês** Intermediário no diploma e avançado na prática
+##### **Inglês** Intermediário no diploma e avançado na prática
 
 ### Experiências de trabalho
 
@@ -27,21 +27,21 @@ _O desenvolve está sendo um mergulho profundo e enriquecedor num mundo onde eu 
 
 Acompanhe meu progresso no Desenvolve:
 - ###### Semana 1
-  - [x] Lógica de programação I: os primeiros programas com Javascript e HTML
+  - [x] Lógica de programação: os primeiros programas com Javascript e HTML
 - ###### Semana 2
-  - [x] Redes parte 1: Introdução, Conceitos e Prática
-  - [x] Redes parte 2: Montando um projeto do cliente até o provedor de serviços
+  - [x] Redes: Introdução, Conceitos e Prática
+  - [x] Redes: Montando um projeto do cliente até o provedor de serviços
 - ###### Semana 3
-  - [x] Redes parte 3: Defina as listas de controle e políticas de acesso de usuários
-  - [x] Redes parte 4: Configuração de protocolos de roteamento e IPv6
-  - [x] Redes parte 5: Wi-FI
+  - [x] Redes: Defina as listas de controle e políticas de acesso de usuários
+  - [x] Redes: Configuração de protocolos de roteamento e IPv6
+  - [x] Redes: Wi-FI
 - ###### Semana 4
-  - [x] ##### Linux: conhecendo e utilizando o terminal
+  - [x] Linux: conhecendo e utilizando o terminal
   - [x] Linux: programas, processos e pacotes
   - [x] Windows: Introdução ao Prompt
 - ###### Semana 5
   - [x] NGINX: Servidor Web, Proxy Reverso e API Gateway
-  - [x] NGINX Parte 2: Performance, FastCGI e HTTPS
+  - [x] NGINX: Performance, FastCGI e HTTPS
   - [x] Git e Github: Controle e compartilhe seu código
 - ###### Semana 6
   - [x] Git e Github: Estratégias de ramificação, Conflitos e Pull Requests
@@ -50,8 +50,8 @@ Acompanhe meu progresso no Desenvolve:
 - ###### Semana 7
   - [x] Vim: introdução e boas práticas a edição no terminal
 - ###### Semana 8
-  - [x] Shell Scripting parte 1: começando seus scripts de automação de tarefas
-  - [x] Shell Scripting parte 2: fazendo monitoramento, agendando tarefas e backup
+  - [x] Shell Scripting: começando seus scripts de automação de tarefas
+  - [x] Shell Scripting: fazendo monitoramento, agendando tarefas e backup
   - [x] LGPD: conhecendo e entendendo seus impactos
 - ###### Semana 9
   - [x] Segurança de redes: Conheça as vulnerabilidades de servidores e clientes
