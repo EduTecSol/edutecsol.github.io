@@ -56,11 +56,11 @@ _O desenvolve está sendo um mergulho profundo e enriquecedor num mundo onde eu 
   - [x] Segurança de redes: Conheça as vulnerabilidades de servidores e clientes
   - [x] Segurança de redes: Crie um firewall com pfSense e iptables
 - ###### Semana 10
-  - [] Segurança de redes: Protegendo dados com VPNs
+  - [ ] Segurança de redes: Protegendo dados com VPNs
   - [x] Integração Contínua: Mais qualidade e menos risco no desenvolvimento
   - [x] Entrega Contínua: Confiabilidade e qualidade na implantação de software
 - ###### Semana 11
-  - [] Vagrant: Gerenciando máquinas virtuais
+  - [ ] Vagrant: Gerenciando máquinas virtuais
   - [x] Hábitos: da produtividade às metas pessoais
 - ###### Semana 12
   - [] Ansible: Sua infraestrutura como código
