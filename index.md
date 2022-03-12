@@ -11,7 +11,7 @@
 
 ### Tragetória até o desenvolve
 
-_O desenvolve está sendo um mergulho profundo e gratificante num mundo onde eu só brincava à beira da piscina_
+_O desenvolve está sendo um mergulho profundo e enriquecedor num mundo onde eu só brincava à beira da piscina_
 
 Meu Progresso no Desenvolve:
 - Semana 1
