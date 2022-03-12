@@ -54,6 +54,11 @@ _O desenvolve está sendo um mergulho profundo e enriquecedor num mundo onde eu 
   - [x] Shell Scripting: começando seus scripts de automação de tarefas
   - [x] Shell Scripting: fazendo monitoramento, agendando tarefas e backup
   - [x] LGPD: conhecendo e entendendo seus impactos
+
+___
+Seleção dos alunos destaque
+___
+
 - ##### Semana 9
   - [x] Segurança de redes: Conheça as vulnerabilidades de servidores e clientes
   - [x] Segurança de redes: Crie um firewall com pfSense e iptables
