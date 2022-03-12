@@ -6,7 +6,7 @@ algum texto
 
 algum texto
 
-- item 1
+- item
 - outro item
 
 1. item enumerado
@@ -14,8 +14,7 @@ algum texto
 
 **negrito** e _italico_
 
-[Link](url) and ![Image](src)
-```
+exemplo de [Link](url) e uma ![Image](src)
 
 
 ### Jekyll Themes
