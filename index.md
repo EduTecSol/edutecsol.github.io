@@ -17,43 +17,76 @@ _O desenvolve está sendo um mergulho profundo e gratificante num mundo que eu s
 
 Meu Progresso no Desenvolve:
 - Semana 1
-  - [x]Lógica de programação I: os primeiros programas com Javascript e HTML
+  - [x] Lógica de programação I: os primeiros programas com Javascript e HTML
 - Semana 2
-  - [x]Redes parte 1: Introdução, Conceitos e Prática
-  - [x]Redes parte 2: Montando um projeto do cliente até o provedor de serviços
+  - [x] Redes parte 1: Introdução, Conceitos e Prática
+  - [x] Redes parte 2: Montando um projeto do cliente até o provedor de serviços
 - Semana 3
-  - Redes parte 3: Defina as listas de controle e políticas de acesso de usuários
-  - Redes parte 4: Configuração de protocolos de roteamento e IPv6
-  - Redes parte 5: Wi-FI
+  - [x]Redes parte 3: Defina as listas de controle e políticas de acesso de usuários
+  - [x]Redes parte 4: Configuração de protocolos de roteamento e IPv6
+  - [x]Redes parte 5: Wi-FI
 - Semana 4
-  - Linux I: conhecendo e utilizando o terminal
-  - Linux II: programas, processos e pacotes
-  - Windows: Introdução ao Prompt
+  - [x]Linux I: conhecendo e utilizando o terminal
+  - [x]Linux II: programas, processos e pacotes
+  - [x]Windows: Introdução ao Prompt
 - Semana 5
-  - NGINX: Servidor Web, Proxy Reverso e API Gateway
-  - NGINX Parte 2: Performance, FastCGI e HTTPS
-  - Git e Github: Controle e compartilhe seu código
+  - [x]NGINX: Servidor Web, Proxy Reverso e API Gateway
+  - [x]NGINX Parte 2: Performance, FastCGI e HTTPS
+  - [x]Git e Github: Controle e compartilhe seu código
 - Semana 6
-  - Git e Github: Estratégias de ramificação, Conflitos e Pull Requests
-  - Fundamentos de agilidade: seus primeiros passos para a Transformação Ágil
-  - Práticas Ágeis: o dia a dia do ambiente Agile
+  - [x]Git e Github: Estratégias de ramificação, Conflitos e Pull Requests
+  - [x]Fundamentos de agilidade: seus primeiros passos para a Transformação Ágil
+  - [x]Práticas Ágeis: o dia a dia do ambiente Agile
 - Semana 7
-  - Vim: introdução e boas práticas a edição no terminal
+  - [x]Vim: introdução e boas práticas a edição no terminal
 - Semana 8
-  - Shell Scripting parte 1: começando seus scripts de automação de tarefas
-  - Shell Scripting parte 2: fazendo monitoramento, agendando tarefas e backup
-  - LGPD: conhecendo e entendendo seus impactos
+  - [x]Shell Scripting parte 1: começando seus scripts de automação de tarefas
+  - [x]Shell Scripting parte 2: fazendo monitoramento, agendando tarefas e backup
+  - [x]LGPD: conhecendo e entendendo seus impactos
 - Semana 9
-  - Segurança de redes: Conheça as vulnerabilidades de servidores e clientes
-  - Segurança de redes: Crie um firewall com pfSense e iptables
+  - [x]Segurança de redes: Conheça as vulnerabilidades de servidores e clientes
+  - [x]Segurança de redes: Crie um firewall com pfSense e iptables
 - Semana 10
-  - 
-  - Integração Contínua: Mais qualidade e menos risco no desenvolvimento
-  - Entrega Contínua: Confiabilidade e qualidade na implantação de software
+  - []Segurança de redes: Protegendo dados com VPNs
+  - [x]Integração Contínua: Mais qualidade e menos risco no desenvolvimento
+  - [x]Entrega Contínua: Confiabilidade e qualidade na implantação de software
 - Semana 11
-  - 
-  - Hábitos: da produtividade às metas pessoais
+  - []Vagrant: Gerenciando máquinas virtuais
+  - [x]Hábitos: da produtividade às metas pessoais
 - Semana 12
+  - []Ansible: Sua infraestrutura como código
+  - []Foco: trazendo mais resultados para o dia a dia
+- Semana 13
+  - []Vagrant e Puppet: Criação e provisionamento de maquinas virtuais
+  - []Comunicação: como se expressar bem e ser compreendido
+- Semana 14
+  - []Infraestrutura como código: Preparando máquinas na AWS com Ansible e Terraform
+  - []Terraform: Automatize a infraestrutura na nuvem
+  - 
+- Semana 15
+- Semana 16
+- Semana 17
+- Semana 18
+- Semana 19
+- Semana 20
+- Semana 21
+- Semana 22
+- Semana 23
+- Semana 24
+- Semana 25
+- Semana 26
+- Semana 27
+- Semana 28
+- Semana 29
+- Semana 30
+- Semana 31
+- Semana 32
+- Semana 33
+- Semana 34
+- Semana 35
+- Semana 36
+- Semana 37
+
 
 **negrito** e _italico_
 
