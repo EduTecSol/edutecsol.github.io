@@ -4,6 +4,8 @@ algum texto
 
 ## Tragetória até o desenvolve
 
+O desenvolve está sendo um mergulho profundo e gratificante num mundo que eu só brincava na beira da piscina
+
 ### Subtítulo
 
 mais texto
@@ -16,7 +18,12 @@ mais texto
 
 **negrito** e _italico_
 
-exemplo de [Link](url) e uma ![Image](src)
+**Meus perfis**
+[Github](https://github.com/EduTecSol)
+[Linkedin](https://www.linkedin.com/in/eduardo-albuquerque-70b58822b)
+
+
+exemplo de [link](url) e uma ![Image](src)
 
 
 <!-- ### Jekyll Themes
