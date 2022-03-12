@@ -1,7 +1,5 @@
 # Eduardo Albuquerque Maia
 
-**Meus perfis**
-
 - [Github](https://github.com/EduTecSol)
 - [Linkedin](https://www.linkedin.com/in/eduardo-albuquerque-70b58822b)
 
@@ -17,8 +15,45 @@ Já trabalhei:
 
 _O desenvolve está sendo um mergulho profundo e gratificante num mundo que eu só brincava na beira da piscina_
 
-1. item enumerado
-2. outro item enumerado
+Meu Progresso no Desenvolve:
+- Semana 1
+  - Lógica de programação I: os primeiros programas com Javascript e HTML
+- Semana 2
+  - Redes parte 1: Introdução, Conceitos e Prática
+  - Redes parte 2: Montando um projeto do cliente até o provedor de serviços
+- Semana 3
+  - Redes parte 3: Defina as listas de controle e políticas de acesso de usuários
+  - Redes parte 4: Configuração de protocolos de roteamento e IPv6
+  - Redes parte 5: Wi-FI
+- Semana 4
+  - Linux I: conhecendo e utilizando o terminal
+  - Linux II: programas, processos e pacotes
+  - Windows: Introdução ao Prompt
+- Semana 5
+  - NGINX: Servidor Web, Proxy Reverso e API Gateway
+  - NGINX Parte 2: Performance, FastCGI e HTTPS
+  - Git e Github: Controle e compartilhe seu código
+- Semana 6
+  - Git e Github: Estratégias de ramificação, Conflitos e Pull Requests
+  - Fundamentos de agilidade: seus primeiros passos para a Transformação Ágil
+  - Práticas Ágeis: o dia a dia do ambiente Agile
+- Semana 7
+  - Vim: introdução e boas práticas a edição no terminal
+- Semana 8
+  - Shell Scripting parte 1: começando seus scripts de automação de tarefas
+  - Shell Scripting parte 2: fazendo monitoramento, agendando tarefas e backup
+  - LGPD: conhecendo e entendendo seus impactos
+- Semana 9
+  - Segurança de redes: Conheça as vulnerabilidades de servidores e clientes
+  - Segurança de redes: Crie um firewall com pfSense e iptables
+- Semana 10
+  - 
+  - Integração Contínua: Mais qualidade e menos risco no desenvolvimento
+  - Entrega Contínua: Confiabilidade e qualidade na implantação de software
+- Semana 11
+  - 
+  - Hábitos: da produtividade às metas pessoais
+- Semana 12
 
 **negrito** e _italico_
 
