@@ -22,7 +22,7 @@ ___
 _O desenvolve está sendo um mergulho profundo e enriquecedor num mundo onde eu só brincava à beira da piscina_
 
 Acompanhe meu progresso no Desenvolve:
-- Semana 1
+- ######Semana 1
   - [x] Lógica de programação I: os primeiros programas com Javascript e HTML
 - Semana 2
   - [x] Redes parte 1: Introdução, Conceitos e Prática
