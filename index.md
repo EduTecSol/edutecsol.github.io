@@ -17,10 +17,9 @@
 
 ___
 
-| Janeiro | Fevereiro | Março |
+- opensource
+  - /$
 
-- Inicio da jornada
-  - 
 
 ## Tragetória no Desenvolve
 
