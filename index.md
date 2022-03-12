@@ -63,38 +63,62 @@ _O desenvolve está sendo um mergulho profundo e enriquecedor num mundo onde eu 
   - [ ] Vagrant: Gerenciando máquinas virtuais
   - [x] Hábitos: da produtividade às metas pessoais
 - ###### Semana 12
-  - [] Ansible: Sua infraestrutura como código
-  - [] Foco: trazendo mais resultados para o dia a dia
+  - [ ] Ansible: Sua infraestrutura como código
+  - [ ] Foco: trazendo mais resultados para o dia a dia
 - ###### Semana 13
-  - [] Vagrant e Puppet: Criação e provisionamento de maquinas virtuais
-  - [] Comunicação: como se expressar bem e ser compreendido
+  - [ ] Vagrant e Puppet: Criação e provisionamento de maquinas virtuais
+  - [ ] Comunicação: como se expressar bem e ser compreendido
 - ###### Semana 14
-  - [] Infraestrutura como código: Preparando máquinas na AWS com Ansible e Terraform
-  - [] Terraform: Automatize a infraestrutura na nuvem
-  - [] Comunicação não violenta: consciência para agir
+  - [ ] Infraestrutura como código: Preparando máquinas na AWS com Ansible e Terraform
+  - [ ] Terraform: Automatize a infraestrutura na nuvem
+  - [ ] Comunicação não violenta: consciência para agir
 - ###### Semana 15
+  - [ ]
 - ###### Semana 16
+  - [ ]
 - ###### Semana 17
+  - [ ]
 - ###### Semana 18
+  - [ ]
 - ###### Semana 19
+  - [ ]
 - ###### Semana 20
+  - [ ]
 - ###### Semana 21
+  - [ ]
+
 - ###### Semana 22
+  - [ ]
 - ###### Semana 23
+  - [ ]
 - ###### Semana 24
+  - [ ]
 - ###### Semana 25
+  - [ ]
 - ###### Semana 26
+  - [ ]
 - ###### Semana 27
+  - [ ]
 - ###### Semana 28
+  - [ ]
 - ###### Semana 29
+  - [ ]
 - ###### Semana 30
+  - [ ]
 - ###### Semana 31
+  - [ ]
 - ###### Semana 32
+  - [ ]
 - ###### Semana 33
+  - [ ]
 - ###### Semana 34
+  - [ ]
 - ###### Semana 35
+  - [ ]
 - ###### Semana 36
+  - [ ]
 - ###### Semana 37
+  - [ ]
 
 ___
 
