@@ -43,7 +43,7 @@ _O desenvolve está sendo um mergulho profundo e enriquecedor num mundo onde eu 
   - [x] Linux: conhecendo e utilizando o terminal
   - [x] Linux: programas, processos e pacotes
   - [x] Windows: Introdução ao Prompt
-- ###### Semana 5
+- ##### Semana 5
   - [x] NGINX: Servidor Web, Proxy Reverso e API Gateway
   - [x] NGINX: Performance, FastCGI e HTTPS
   - [x] Git e Github: Controle e compartilhe seu código
