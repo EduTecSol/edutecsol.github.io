@@ -5,15 +5,13 @@
 
 ## Experiências de trabalho
 
-Já trabalhei:
-
-- como autônomo consertando e dando manutenção em computadores desde cedo até hoje
-- com atendimento aos clientes pré pago da tim em 2012
+- como autônomo prestando suporte e manutenção em computadores desde cedo até hoje
+- com telemarketing efetuando atendimento aos clientes pré pago da tim em 2012
 - como help-desk na prefeitura de juíz de fora entre 2014 e 2015
 
 ### Tragetória até o desenvolve
 
-_O desenvolve está sendo um mergulho profundo e gratificante num mundo que eu só brincava na beira da piscina_
+_O desenvolve está sendo um mergulho profundo e gratificante num mundo onde eu só brincava à beira da piscina_
 
 Meu Progresso no Desenvolve:
 - Semana 1
