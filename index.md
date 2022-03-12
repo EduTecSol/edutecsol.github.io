@@ -36,8 +36,8 @@ Acompanhe meu progresso no Desenvolve:
   - [x] Redes parte 4: Configuração de protocolos de roteamento e IPv6
   - [x] Redes parte 5: Wi-FI
 - ###### Semana 4
-  - [x] Linux I: conhecendo e utilizando o terminal
-  - [x] Linux II: programas, processos e pacotes
+  - [x] ##### Linux: conhecendo e utilizando o terminal
+  - [x] Linux: programas, processos e pacotes
   - [x] Windows: Introdução ao Prompt
 - ###### Semana 5
   - [x] NGINX: Servidor Web, Proxy Reverso e API Gateway
