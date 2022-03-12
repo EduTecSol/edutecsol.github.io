@@ -1,5 +1,11 @@
 # Eduardo Albuquerque Maia
 
+**Meus perfis**
+
+[Github](https://github.com/EduTecSol)
+
+[Linkedin](https://www.linkedin.com/in/eduardo-albuquerque-70b58822b)
+
 ## Experiências de trabalho
 
 Já trabalhei:
@@ -16,13 +22,6 @@ _O desenvolve está sendo um mergulho profundo e gratificante num mundo que eu s
 2. outro item enumerado
 
 **negrito** e _italico_
-
-**Meus perfis**
-
-[Github](https://github.com/EduTecSol)
-
-[Linkedin](https://www.linkedin.com/in/eduardo-albuquerque-70b58822b)
-
 
 exemplo de [link](url) e uma ![Image](src)
 
