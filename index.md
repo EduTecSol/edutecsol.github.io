@@ -5,9 +5,9 @@
 
 #### Idiomas
 
-##### **Português** (nativo)
+###### **Português** (nativo)
 
-##### **Inglês** Intermediário no diploma e avançado na prática
+###### **Inglês** Intermediário no diploma e avançado na prática
 
 ___
 
