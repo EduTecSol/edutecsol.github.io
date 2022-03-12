@@ -23,10 +23,7 @@ ___
 
 _O desenvolve está sendo um mergulho profundo e enriquecedor num mundo onde eu só brincava à beira da piscina_
 
-___
-Página do programa Desenvolve | Time de Tecnologia do Grupo Boticário | Grupo Boticário | Vagas de emprego no Grupo Boticário
 [Página do programa](https://desenvolve.grupoboticario.com.br/) | [Time de Tecnologia do Grupo Boticário](https://medium.com/gbtech) | [Grupo Boticário](https://www.grupoboticario.com.br/) | [Vagas de Emprego no Grupo Boticário](https://grupoboticario.gupy.io/)
-___
 
 **Acompanhe meu progresso no Desenvolve:**
 
