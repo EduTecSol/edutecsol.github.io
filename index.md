@@ -1,10 +1,12 @@
-## Eduardo Albuquerque Maia
+# Eduardo Albuquerque Maia
 
 algum texto
 
-### Tragetória até o desenvolve
+## Tragetória até o desenvolve
 
-algum texto
+###Subtítulo
+
+mais texto
 
 - item
 - outro item
