@@ -1,17 +1,16 @@
 # Eduardo Albuquerque Maia
 
-algum texto
+## Experiências de trabalho
 
-## Tragetória até o desenvolve
+Já trabalhei:
 
-O desenvolve está sendo um mergulho profundo e gratificante num mundo que eu só brincava na beira da piscina
+- como autônomo consertando e dando manutenção em computadores desde cedo até hoje
+- com atendimento aos clientes pré pago da tim em 2012
+- como help-desk na prefeitura de juíz de fora entre 2014 e 2015
 
-### Subtítulo
+### Tragetória até o desenvolve
 
-mais texto
-
-- item
-- outro item
+_O desenvolve está sendo um mergulho profundo e gratificante num mundo que eu só brincava na beira da piscina_
 
 1. item enumerado
 2. outro item enumerado
