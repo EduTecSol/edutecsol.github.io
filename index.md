@@ -9,11 +9,11 @@
 - com telemarketing efetuando atendimento aos clientes pré pago da tim em 2012
 - como help-desk na prefeitura de juíz de fora entre 2014 e 2015
 
-### Tragetória até o desenvolve
+### Tragetória no desenvolve
 
 _O desenvolve está sendo um mergulho profundo e enriquecedor num mundo onde eu só brincava à beira da piscina_
 
-Meu Progresso no Desenvolve:
+Acompanhe meu progresso no Desenvolve:
 - Semana 1
   - [x] Lógica de programação I: os primeiros programas com Javascript e HTML
 - Semana 2
