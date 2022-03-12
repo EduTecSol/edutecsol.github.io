@@ -3,13 +3,18 @@
 - [Github](https://github.com/EduTecSol)
 - [Linkedin](https://www.linkedin.com/in/eduardo-albuquerque-70b58822b)
 
-## Experiências de trabalho
+#### Idiomas
 
-- como autônomo prestando suporte e manutenção em computadores desde cedo até hoje
-- com telemarketing efetuando atendimento aos clientes pré pago da tim em 2012
-- como help-desk na prefeitura de juíz de fora entre 2014 e 2015
+**Português** (nativo)
+**Inglês** Intermediário no diploma e avançado na prática
 
-### Tragetória no desenvolve
+### Experiências de trabalho
+
+- autônomo prestando suporte e manutenção em computadores desde cedo até hoje
+- telemarketing na Almaviva alefetuando atendimento aos clientes pré pago da tim em 2012
+- help-desk na prefeitura de juíz de fora entre 2014 e 2015
+
+## Tragetória no desenvolve
 
 _O desenvolve está sendo um mergulho profundo e enriquecedor num mundo onde eu só brincava à beira da piscina_
 
