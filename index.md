@@ -27,7 +27,7 @@ _O desenvolve está sendo um mergulho profundo e enriquecedor num mundo onde eu 
 
 ___
 
-**Início do programa em Janeiro**
+###### Início do programa em Janeiro
 
 - ##### Semana 1
   - [x] Lógica de programação: os primeiros programas com Javascript e HTML
@@ -188,7 +188,7 @@ ___
   - [ ] Amazon Elastic Beanstalk: Múltiplos containers e NGINX
   - [ ] Amazon EKS: Gerenciando aplicações conteinerizadas com Kubernetes
 
-**Fim do programa e Formatura em Outubro**
+###### Fim do programa e Formatura em Outubro
 
 ___
 
