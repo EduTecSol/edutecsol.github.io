@@ -30,9 +30,11 @@ ___
 ###### Início do programa em Janeiro
 
 \- ##### Semana 1
+
   - [x] Lógica de programação: os primeiros programas com Javascript e HTML
 
 \- ##### Semana 2
+
   - [x] Redes: Introdução, Conceitos e Prática
   - [x] Redes: Montando um projeto do cliente até o provedor de serviços
 
