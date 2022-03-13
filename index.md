@@ -53,7 +53,7 @@ _O desenvolve está sendo um mergulho profundo e enriquecedor num mundo onde eu 
   - [x] Shell Scripting: fazendo monitoramento, agendando tarefas e backup
   - [x] LGPD: conhecendo e entendendo seus impactos
 
-###### Seleção dos alunos destaque para gb.tech
+###### Seleção dos alunos destaque para gb.tech | Semana atual
 
 ___
 
