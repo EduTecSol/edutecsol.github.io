@@ -75,12 +75,12 @@ ___
 
 - ##### Semana 10
   - [ ] Segurança de redes: Protegendo dados com VPNs
-  - [x] Integração Contínua: Mais qualidade e menos risco no desenvolvimento
-  - [x] Entrega Contínua: Confiabilidade e qualidade na implantação de software
+  > - [x] Integração Contínua: Mais qualidade e menos risco no desenvolvimento
+  > - [x] Entrega Contínua: Confiabilidade e qualidade na implantação de software
 
 - ##### Semana 11
   - [ ] Vagrant: Gerenciando máquinas virtuais
-  - [x] Hábitos: da produtividade às metas pessoais
+  > - [x] Hábitos: da produtividade às metas pessoais
 
 - ##### Semana 12
   - [ ] Ansible: Sua infraestrutura como código
