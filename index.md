@@ -59,6 +59,7 @@ ___
 
 ###### Seleção dos alunos destaque para gb.tech
 
+
 - ##### Semana 9
   - [x] Segurança de redes: Conheça as vulnerabilidades de servidores e clientes
   - [x] Segurança de redes: Crie um firewall com pfSense e iptables
