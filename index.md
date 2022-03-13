@@ -37,32 +37,32 @@ ___
   > - [x] Redes: Montando um projeto do cliente até o provedor de serviços
 
 - ##### Semana 3
-  - [x] Redes: Defina as listas de controle e políticas de acesso de usuários
-  - [x] Redes: Configuração de protocolos de roteamento e IPv6
-  - [x] Redes: Wi-FI
+  > - [x] Redes: Defina as listas de controle e políticas de acesso de usuários
+  > - [x] Redes: Configuração de protocolos de roteamento e IPv6
+  > - [x] Redes: Wi-FI
 
 - ###### Semana 4
-  - [x] Linux: conhecendo e utilizando o terminal
-  - [x] Linux: programas, processos e pacotes
-  - [x] Windows: Introdução ao Prompt
+  > - [x] Linux: conhecendo e utilizando o terminal
+  > - [x] Linux: programas, processos e pacotes
+  > - [x] Windows: Introdução ao Prompt
 
 - ##### Semana 5
-  - [x] NGINX: Servidor Web, Proxy Reverso e API Gateway
-  - [x] NGINX: Performance, FastCGI e HTTPS
-  - [x] Git e Github: Controle e compartilhe seu código
+  > - [x] NGINX: Servidor Web, Proxy Reverso e API Gateway
+  > - [x] NGINX: Performance, FastCGI e HTTPS
+  > - [x] Git e Github: Controle e compartilhe seu código
 
 - ##### Semana 6
-  - [x] Git e Github: Estratégias de ramificação, Conflitos e Pull Requests
-  - [x] Fundamentos de agilidade: seus primeiros passos para a Transformação Ágil
-  - [x] Práticas Ágeis: o dia a dia do ambiente Agile
+  > - [x] Git e Github: Estratégias de ramificação, Conflitos e Pull Requests
+  > - [x] Fundamentos de agilidade: seus primeiros passos para a Transformação Ágil
+  > - [x] Práticas Ágeis: o dia a dia do ambiente Agile
 
 - ##### Semana 7
-  - [x] Vim: introdução e boas práticas a edição no terminal
+  > - [x] Vim: introdução e boas práticas a edição no terminal
 
 - ##### Semana 8
-  - [x] Shell Scripting: começando seus scripts de automação de tarefas
-  - [x] Shell Scripting: fazendo monitoramento, agendando tarefas e backup
-  - [x] LGPD: conhecendo e entendendo seus impactos
+  > - [x] Shell Scripting: começando seus scripts de automação de tarefas
+  > - [x] Shell Scripting: fazendo monitoramento, agendando tarefas e backup
+  > - [x] LGPD: conhecendo e entendendo seus impactos
 
 ###### Seleção dos alunos destaque para gb.tech em Março/Abril
 
@@ -70,8 +70,8 @@ ___
 
 
 - ##### Semana 9
-  - [x] Segurança de redes: Conheça as vulnerabilidades de servidores e clientes
-  - [x] Segurança de redes: Crie um firewall com pfSense e iptables
+  > - [x] Segurança de redes: Conheça as vulnerabilidades de servidores e clientes
+  > - [x] Segurança de redes: Crie um firewall com pfSense e iptables
 
 - ##### Semana 10
   - [ ] Segurança de redes: Protegendo dados com VPNs
