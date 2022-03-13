@@ -86,7 +86,7 @@ ___
   - [ ] PowerShell: Sessões, Jobs e Administração Remota
 - ##### Semana 17
   - [ ] Docker: Criando containers sem dor de cabeça
-  - [ ] Comunicação não violenta parte 2: mantendo a empatia
+  - [ ] Comunicação não violenta: mantendo a empatia
 - ##### Semana 18
   - [ ] Docker Swarm: Orquestrador de containers
   - [ ] Feedback: a arte de orientar e ser orientado com sentido
@@ -96,40 +96,40 @@ ___
   - [ ] Comunicação corporativa: usando PowerPoint de forma efetiva
 - ##### Semana 20
   - [ ] Google Kubernetes Engine: Primeiros passos com GKE
-  - [ ] Oratória parte 1: compartilhe ideias e histórias
+  - [ ] Oratória: compartilhe ideias e histórias
 - ##### Semana 21
   - [ ] Google Kubernetes Engine: Avançando com GKE
-  - [ ] Oratória parte 2: apresentações em público
+  - [ ] Oratória: apresentações em público
   - [ ] Microsserviços: padrões de projeto
 
 - ##### Semana 22
   - [ ] Fundamentos de Microsserviços: Se aprofundando nos conceitos
   - [ ] Microsserviços na prática: Entendendo a tomada de decisões
-  - [ ] Kanban parte 1: fundamentos essenciais
+  - [ ] Kanban: fundamentos essenciais
 - ##### Semana 23
   - [ ] Build de uma aplicação .NET: construindo seus projetos com MSBuild
-  - [ ] Kanban parte 2: métricas e práticas avançadas
+  - [ ] Kanban: métricas e práticas avançadas
 - ##### Semana 24
   - [ ] Jenkins: Integração contínua
   - [ ] Jenkins e Docker: Pipeline de entrega continua
 - ##### Semana 25
   - [ ] Gitlab CI e Docker: Pipeline de entrega contínua
   - [ ] Grafana e Telegraf: Monitoramento em tempo real
-  - [ ] Scrum parte 1: gerencie o seu projeto de forma ágil
+  - [ ] Scrum: gerencie o seu projeto de forma ágil
 - ##### Semana 26
-  - [ ] Scrum parte 2: o Manifesto Ágil, liderança e organização em Scrum
+  - [ ] Scrum: o Manifesto Ágil, liderança e organização em Scrum
 - ##### Semana 27
-  - [ ] Scrum parte 3: iniciando projetos com Agile
+  - [ ] Scrum: iniciando projetos com Agile
 - ##### Semana 28
-  - [ ] Scrum parte 4: planejando projetos com Agile
+  - [ ] Scrum: planejando projetos com Agile
 - ##### Semana 29
   - [ ] Microsoft AZ-900 parte 1: Azure Fundamentals
   - [ ] Microsoft AZ-900 parte 2: Azure Fundamentals
-  - [ ] Scrum parte 5: executando projetos com Agile
+  - [ ] Scrum: executando projetos com Agile
 - ##### Semana 30
   - [ ] Microsoft AZ-900 parte 3: Azure Fundamentals
   - [ ] Microsoft AZ-900 parte 4: Azure Fundamentals
-  - [ ] Scrum parte 6: revisão, retrospectiva e encerramento de projetos com Agile
+  - [ ] Scrum: revisão, retrospectiva e encerramento de projetos com Agile
 - ##### Semana 31
   - [ ] Azure: Gerencie Kubernetes com AKS e ACR
   - [ ] OKR: construindo metas ágeis
@@ -147,9 +147,9 @@ ___
   - [ ] Amazon Cloud Front e Route53: Distribua os seus arquivos e crie seu próprio domínio
 - ##### Semana 36
   - [ ] Amazon ECS: Gerencie Docker na nuvem da AWS
-  - [ ] Amazon Elastic Beanstalk Parte 1: Container Docker
+  - [ ] Amazon Elastic Beanstalk: Container Docker
 - ##### Semana 37
-  - [ ] Amazon Elastic Beanstalk Parte 2: Múltiplos containers e NGINX
+  - [ ] Amazon Elastic Beanstalk: Múltiplos containers e NGINX
   - [ ] Amazon EKS: Gerenciando aplicações conteinerizadas com Kubernetes
 
 Formatura em outubro
