@@ -59,7 +59,7 @@ _O desenvolve está sendo um mergulho profundo e enriquecedor num mundo onde eu 
 
 ___
 
-Seleção dos alunos destaque
+Seleção dos alunos destaque para trabalhar com o gb.tech
 
 ___
 
