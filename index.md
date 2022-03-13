@@ -55,6 +55,8 @@ _O desenvolve está sendo um mergulho profundo e enriquecedor num mundo onde eu 
 
 ###### Seleção dos alunos destaque para gb.tech
 
+___
+
 - ##### Semana 9
   - [x] Segurança de redes: Conheça as vulnerabilidades de servidores e clientes
   - [x] Segurança de redes: Crie um firewall com pfSense e iptables
