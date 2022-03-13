@@ -184,7 +184,7 @@ ___
   - [ ] Amazon Elastic Beanstalk: Múltiplos containers e NGINX
   - [ ] Amazon EKS: Gerenciando aplicações conteinerizadas com Kubernetes
 
-Formatura em outubro
+**Formatura em outubro**
 
 ___
 
