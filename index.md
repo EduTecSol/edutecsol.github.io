@@ -56,7 +56,9 @@ _O desenvolve está sendo um mergulho profundo e enriquecedor num mundo onde eu 
   - [x] LGPD: conhecendo e entendendo seus impactos
 
 ___
+
 Seleção dos alunos destaque
+
 ___
 
 - ##### Semana 9
