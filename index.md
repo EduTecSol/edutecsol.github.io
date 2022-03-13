@@ -9,8 +9,6 @@
 
 ###### **Inglês** Intermediário no diploma e avançado na prática
 
-___
-
 ### Experiências de trabalho
 
 - autônomo prestando suporte e manutenção em computadores desde cedo até hoje
