@@ -25,6 +25,10 @@ _O desenvolve está sendo um mergulho profundo e enriquecedor num mundo onde eu 
 
 **Acompanhe meu progresso no Desenvolve:**
 
+___
+
+**Início do programa em Janeiro**
+
 - ##### Semana 1
   - [x] Lógica de programação: os primeiros programas com Javascript e HTML
 
@@ -60,7 +64,7 @@ _O desenvolve está sendo um mergulho profundo e enriquecedor num mundo onde eu 
   - [x] Shell Scripting: fazendo monitoramento, agendando tarefas e backup
   - [x] LGPD: conhecendo e entendendo seus impactos
 
-###### Seleção dos alunos destaque para gb.tech
+###### Seleção dos alunos destaque para gb.tech em Março/Abril
 
 ___
 
@@ -184,7 +188,7 @@ ___
   - [ ] Amazon Elastic Beanstalk: Múltiplos containers e NGINX
   - [ ] Amazon EKS: Gerenciando aplicações conteinerizadas com Kubernetes
 
-**Formatura em outubro**
+**Fim do programa e Formatura em Outubro**
 
 ___
 
