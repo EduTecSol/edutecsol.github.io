@@ -62,11 +62,6 @@ ___
   - [x] Shell Scripting: fazendo monitoramento, agendando tarefas e backup
   - [x] LGPD: conhecendo e entendendo seus impactos
 
-###### Seleção dos alunos destaque para gb.tech em Março/Abril
-
-___
-
-
 - ##### Semana 9
   - [x] Segurança de redes: Conheça as vulnerabilidades de servidores e clientes
   - [x] Segurança de redes: Crie um firewall com pfSense e iptables
