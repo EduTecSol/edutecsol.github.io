@@ -11,9 +11,9 @@
 
 ### Experiências de trabalho
 
-- autônomo prestando suporte e manutenção em computadores desde cedo até hoje
-- telemarketing na Almaviva alefetuando atendimento aos clientes pré pago da tim em 2012
-- help-desk na prefeitura de juíz de fora entre 2014 e 2015
+- Autônomo suporte e manutenção em computadores
+- Telemarketing na Almaviva do Brasil 2012
+- Help-desk na prefeitura de juíz de fora entre 2014 e 2015
 
 ___
 
@@ -84,11 +84,11 @@ ___
 
 - ##### Semana 12
   > - [ ] Ansible: Sua infraestrutura como código
-  > - [ ] Foco: trazendo mais resultados para o dia a dia
+  > - [x] Foco: trazendo mais resultados para o dia a dia
 
 - ##### Semana 13
   > - [ ] Vagrant e Puppet: Criação e provisionamento de maquinas virtuais
-  > - [ ] Comunicação: como se expressar bem e ser compreendido
+  > - [x] Comunicação: como se expressar bem e ser compreendido
 
 - ##### Semana 14
   > - [ ] Infraestrutura como código: Preparando máquinas na AWS com Ansible e Terraform
