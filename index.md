@@ -9,7 +9,7 @@
 
 ###### **Inglês** Intermediário
 
-### Experiências de trabalho
+### Experiências de Trabalho
 
 - Autônomo suporte e manutenção em computadores
 - Telemarketing na Almaviva do Brasil 2012
