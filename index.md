@@ -183,7 +183,7 @@ ___
 
 ___
 
-###### [Página do Programa](https://desenvolve.grupoboticario.com.br/) | [Time de Tecnologia do Grupo Boticário - gb.tech](https://medium.com/gbtech) | [Grupo Boticário](https://www.grupoboticario.com.br/) | [Vagas de Emprego no Grupo Boticário](https://grupoboticario.gupy.io/)
+[Página do Programa](https://desenvolve.grupoboticario.com.br/) | [Time de Tecnologia do Grupo Boticário - gb.tech](https://medium.com/gbtech) | [Grupo Boticário](https://www.grupoboticario.com.br/) | [Vagas de Emprego no Grupo Boticário](https://grupoboticario.gupy.io/)
 
 <!-- ### Jekyll Themes
 
