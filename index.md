@@ -11,7 +11,7 @@
 
 ## Experiências de Trabalho
 
-- Autônomo: suporte e manutenção em computadores
+- Autônomo: Manutenção e Suporte em computadores
 - Telemarketing na Almaviva do Brasil 2012
 - Help-desk na prefeitura de juíz de fora entre 2014 e 2015
 
