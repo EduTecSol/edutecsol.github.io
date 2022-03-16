@@ -5,11 +5,11 @@
 
 ##### Idiomas
 
-###### **Português** Nativo
+##### **Português** Nativo
 
-###### **Inglês** Intermediário
+##### **Inglês** Intermediário
 
-### Experiências de Trabalho
+## Experiências de Trabalho
 
 - Autônomo suporte e manutenção em computadores
 - Telemarketing na Almaviva do Brasil 2012
@@ -17,11 +17,13 @@
 
 ___
 
-## Tragetória no Desenvolve
-
-> _O Desenvolve está sendo um mergulho profundo e enriquecedor num mundo onde eu só brincava à beira da piscina_
+### Tragetória no Desenvolve
 
 [Página do Programa](https://desenvolve.grupoboticario.com.br/) | [Time de Tecnologia do Grupo Boticário - gb.tech](https://medium.com/gbtech) | [Grupo Boticário](https://www.grupoboticario.com.br/) | [Vagas de Emprego no Grupo Boticário](https://grupoboticario.gupy.io/)
+
+_2022 começou cheio de experiências incríveis_
+
+> _O Desenvolve está sendo um mergulho profundo e enriquecedor num mundo onde eu só brincava à beira da piscina_
 
 **Acompanhe meu progresso no Desenvolve:**
 
