@@ -25,8 +25,6 @@ ___
 
 **Acompanhe meu progresso no Desenvolve:**
 
-___
-
 ###### Início do programa em Janeiro
 
 - ##### Semana 1
