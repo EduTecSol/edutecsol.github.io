@@ -185,7 +185,7 @@ _2022 começou cheio de experiências incríveis_
   - [ ] Amazon Elastic Beanstalk: Múltiplos containers e NGINX
   - [ ] Amazon EKS: Gerenciando aplicações conteinerizadas com Kubernetes
 
-###### Fim do programa e Formatura em Outubro
+###### Fim do programa em Outubro
 
 ___
 
