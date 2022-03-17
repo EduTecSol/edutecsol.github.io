@@ -4,9 +4,9 @@
    
    [Linkedin](https://www.linkedin.com/in/eduardo-albuquerque-70b58822b)
 
-##### **Português** Nativo
+**Português** Nativo
 
-##### **Inglês** Intermediário
+**Inglês** Intermediário
 
 ## Experiências de Trabalho
 
