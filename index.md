@@ -31,10 +31,6 @@ _2022 começou cheio de experiências incríveis_
   > - [x] Finalizado
   > - [ ] Pendente
 
-    > - [x] Finalizado
-
-    > - [ ] Não finalizado
-
 ###### Início do programa em Janeiro
 
 - ##### Semana 1
