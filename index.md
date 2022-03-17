@@ -27,11 +27,13 @@ _2022 começou cheio de experiências incríveis_
 
 **Acompanhe meu progresso no Desenvolve:**
 
-> - Legenda:
-
+- ##### Legenda:
   > - [x] Finalizado
+  > - [ ] Pendente
 
-  > - [ ] Não finalizado
+    > - [x] Finalizado
+
+    > - [ ] Não finalizado
 
 ###### Início do programa em Janeiro
 
