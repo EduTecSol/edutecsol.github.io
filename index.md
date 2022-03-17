@@ -33,154 +33,154 @@ _2022 começou cheio de experiências incríveis_
 ##### 1ª Semana
   - [x] Lógica de programação: os primeiros programas com Javascript e HTML
 
-- ##### Semana 2
+##### 2ª Semana
   - [x] Redes: Introdução, Conceitos e Prática
   - [x] Redes: Montando um projeto do cliente até o provedor de serviços
 
-- ##### Semana 3
+##### 3ª Semana
   - [x] Redes: Defina as listas de controle e políticas de acesso de usuários
   - [x] Redes: Configuração de protocolos de roteamento e IPv6
   - [x] Redes: Wi-FI
 
-- ###### Semana 4
+##### 4ª Semana
   - [x] Linux: conhecendo e utilizando o terminal
   - [x] Linux: programas, processos e pacotes
   - [x] Windows: Introdução ao Prompt
 
-- ##### Semana 5
+##### 5ª Semana
   - [x] NGINX: Servidor Web, Proxy Reverso e API Gateway
   - [x] NGINX: Performance, FastCGI e HTTPS
   - [x] Git e Github: Controle e compartilhe seu código
 
-- ##### Semana 6
+##### 6ª Semana
   - [x] Git e Github: Estratégias de ramificação, Conflitos e Pull Requests
   - [x] Fundamentos de agilidade: seus primeiros passos para a Transformação Ágil
   - [x] Práticas Ágeis: o dia a dia do ambiente Agile
 
-- ##### Semana 7
+##### 7ª Semana
   - [x] Vim: introdução e boas práticas a edição no terminal
 
-- ##### Semana 8
+##### 8ª Semana
   - [x] Shell Scripting: começando seus scripts de automação de tarefas
   - [x] Shell Scripting: fazendo monitoramento, agendando tarefas e backup
   - [x] LGPD: conhecendo e entendendo seus impactos
 
-- ##### Semana 9
+##### 9ª Semana
   - [x] Segurança de redes: Conheça as vulnerabilidades de servidores e clientes
   - [x] Segurança de redes: Crie um firewall com pfSense e iptables
 
-- ##### Semana 10
+##### 10ª Semana
   - [ ] Segurança de redes: Protegendo dados com VPNs
   - [x] Integração Contínua: Mais qualidade e menos risco no desenvolvimento
   - [x] Entrega Contínua: Confiabilidade e qualidade na implantação de software
 
-- ##### Semana 11
+##### 11ª Semana
   - [ ] Vagrant: Gerenciando máquinas virtuais
   - [x] Hábitos: da produtividade às metas pessoais
 
-- ##### Semana 12
+##### 12ª Semana
   - [ ] Ansible: Sua infraestrutura como código
   - [x] Foco: trazendo mais resultados para o dia a dia
 
-- ##### Semana 13
+##### 13ª Semana
   - [ ] Vagrant e Puppet: Criação e provisionamento de maquinas virtuais
   - [x] Comunicação: como se expressar bem e ser compreendido
 
-- ##### Semana 14
+##### 14ª Semana
   - [ ] Infraestrutura como código: Preparando máquinas na AWS com Ansible e Terraform
   - [ ] Terraform: Automatize a infraestrutura na nuvem
   - [ ] Comunicação não violenta: consciência para agir
 
-- ##### Semana 15
+##### 15ª Semana
   - [ ] PowerShell: Começando com a linguagem de scripting moderna
 
-- ##### Semana 16
+##### 16ª Semana
   - [ ] PowerShell: Sessões, Jobs e Administração Remota
 
-- ##### Semana 17
+##### 17ª Semana
   - [ ] Docker: Criando containers sem dor de cabeça
   - [ ] Comunicação não violenta: mantendo a empatia
 
-- ##### Semana 18
+##### 18ª Semana
   - [ ] Docker Swarm: Orquestrador de containers
   - [ ] Feedback: a arte de orientar e ser orientado com sentido
 
-- ##### Semana 19
+##### 19ª Semana
   - [ ] Kubernetes: Pods, Services e ConfigMaps
   - [ ] Kubernetes: Deployments, Volumes e Escalabilidade
   - [ ] Comunicação corporativa: usando PowerPoint de forma efetiva
 
-- ##### Semana 20
+##### 20ª Semana
   - [ ] Google Kubernetes Engine: Primeiros passos com GKE
   - [ ] Oratória: compartilhe ideias e histórias
 
-- ##### Semana 21
+##### 21ª Semana
   - [ ] Google Kubernetes Engine: Avançando com GKE
   - [ ] Oratória: apresentações em público
   - [ ] Microsserviços: padrões de projeto
 
-- ##### Semana 22
+##### 22ª Semana
   - [ ] Fundamentos de Microsserviços: Se aprofundando nos conceitos
   - [ ] Microsserviços na prática: Entendendo a tomada de decisões
   - [ ] Kanban: fundamentos essenciais
 
-- ##### Semana 23
+##### 23ª Semana
   - [ ] Build de uma aplicação .NET: construindo seus projetos com MSBuild
   - [ ] Kanban: métricas e práticas avançadas
 
-- ##### Semana 24
+##### 24ª Semana
   - [ ] Jenkins: Integração contínua
   - [ ] Jenkins e Docker: Pipeline de entrega continua
 
-- ##### Semana 25
+##### 25ª Semana
   - [ ] Gitlab CI e Docker: Pipeline de entrega contínua
   - [ ] Grafana e Telegraf: Monitoramento em tempo real
   - [ ] Scrum: gerencie o seu projeto de forma ágil
 
-- ##### Semana 26
+##### 26ª Semana
   - [ ] Scrum: o Manifesto Ágil, liderança e organização em Scrum
 
-- ##### Semana 27
+##### 27ª Semana
   - [ ] Scrum: iniciando projetos com Agile
 
-- ##### Semana 28
+##### 28ª Semana
   - [ ] Scrum: planejando projetos com Agile
 
-- ##### Semana 29
+##### 29ª Semana
   - [ ] Microsoft AZ-900 parte 1: Azure Fundamentals
   - [ ] Microsoft AZ-900 parte 2: Azure Fundamentals
   - [ ] Scrum: executando projetos com Agile
 
-- ##### Semana 30
+##### 30ª Semana
   - [ ] Microsoft AZ-900 parte 3: Azure Fundamentals
   - [ ] Microsoft AZ-900 parte 4: Azure Fundamentals
   - [ ] Scrum: revisão, retrospectiva e encerramento de projetos com Agile
 
-- ##### Semana 31
+##### 31ª Semana
   - [ ] Azure: Gerencie Kubernetes com AKS e ACR
   - [ ] OKR: construindo metas ágeis
 
-- ##### Semana 32
+##### 32ª Semana
   - [ ] Azure Functions: Rodando código sem servidor
   - [ ] Azure Armazenamento: Trabalhando com File e Blob
 
-- ##### Semana 33
+##### 33ª Semana
   - [ ] Deploy no Amazon EC2: Alta disponibilidade e escalabilidade de uma aplicação
   - [ ] Amazon Lightsail: Descomplicando a nuvem
 
-- ##### Semana 34
+##### 34ª Semana
   - [ ] Amazon CloudWatch: Visibilidade completa das aplicações e serviços na nuvem
   - [ ] Amazon S3: Manipule e armazene objetos na nuvem
 
-- ##### Semana 35
+##### 35ª Semana
   - [ ] Amazon VPC: Provisione uma nuvem privada
   - [ ] Amazon Cloud Front e Route53: Distribua os seus arquivos e crie seu próprio domínio
 
-- ##### Semana 36
+##### 36ª Semana
   - [ ] Amazon ECS: Gerencie Docker na nuvem da AWS
   - [ ] Amazon Elastic Beanstalk: Container Docker
 
-- ##### Semana 37
+##### 37ª Semana
   - [ ] Amazon Elastic Beanstalk: Múltiplos containers e NGINX
   - [ ] Amazon EKS: Gerenciando aplicações conteinerizadas com Kubernetes
 
