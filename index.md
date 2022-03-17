@@ -19,6 +19,8 @@ ___
 
 ### Tragetória no Desenvolve
 
+Desenvol
+
 _2022 começou cheio de experiências incríveis_
 
 >> _O Desenvolve está sendo um mergulho profundo e enriquecedor num mundo onde eu só brincava à beira da piscina_
