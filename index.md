@@ -1,6 +1,8 @@
 # Eduardo Albuquerque Maia
 
-   | [Github](https://github.com/EduTecSol) | [Linkedin](https://www.linkedin.com/in/eduardo-albuquerque-70b58822b)
+   [Github](https://github.com/EduTecSol)
+   
+   [Linkedin](https://www.linkedin.com/in/eduardo-albuquerque-70b58822b)
 
 ##### **Português** Nativo
 
@@ -31,11 +33,11 @@ _2022 começou cheio de experiências incríveis_
 ###### Início do programa em Janeiro
 
 ##### 1ª Semana
-  - [x] Lógica de programação: os primeiros programas com Javascript e HTML
+  [x] Lógica de programação: os primeiros programas com Javascript e HTML
 
 ##### 2ª Semana
-  - [x] Redes: Introdução, Conceitos e Prática
-  - [x] Redes: Montando um projeto do cliente até o provedor de serviços
+  [x] Redes: Introdução, Conceitos e Prática
+  [x] Redes: Montando um projeto do cliente até o provedor de serviços
 
 ##### 3ª Semana
   - [x] Redes: Defina as listas de controle e políticas de acesso de usuários
