@@ -19,8 +19,6 @@ ___
 
 ### Tragetória no Desenvolve
 
-##### [Página do Programa Desenvolve 2022](https://desenvolve.grupoboticario.com.br/) | [Time de Tecnologia do Grupo Boticário - gb.tech](https://medium.com/gbtech) | [Vagas de Emprego no Grupo Boticário](https://grupoboticario.gupy.io/) | [Grupo Boticário](https://www.grupoboticario.com.br/)
-
 _2022 começou cheio de experiências incríveis_
 
 >> _O Desenvolve está sendo um mergulho profundo e enriquecedor num mundo onde eu só brincava à beira da piscina_
