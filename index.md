@@ -30,7 +30,7 @@ _2022 começou cheio de experiências incríveis_
 
 ###### Início do programa em Janeiro
 
-- ##### Semana 1
+1. ##### ª Semana 1
   - [x] Lógica de programação: os primeiros programas com Javascript e HTML
 
 - ##### Semana 2
