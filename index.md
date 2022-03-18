@@ -2,7 +2,7 @@
 
 [Github](https://github.com/EduTecSol) \| [Linkedin](https://www.linkedin.com/in/eduardo-albuquerque-70b58822b)
 
-- Idiomas
+Idiomas
 
   - Português Nativo
 
