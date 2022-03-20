@@ -11,8 +11,8 @@ Idiomas
 ## Experiências de Trabalho
 
 - Autônomo: Manutenção e Suporte em computadores
-- Telemarketing na Almaviva do Brasil 2012
-- Help-desk na prefeitura de juíz de fora entre 2014 e 2015
+- Telemarketing na Almaviva do Brasil entre março de 2012 e novembro de 2012
+- Help-desk na prefeitura de juíz de fora entre maio de 2015 e dezembro de 2016
 
 ___
 
