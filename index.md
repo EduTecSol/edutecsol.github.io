@@ -89,7 +89,7 @@ _2022 começou cheio de experiências incríveis_
 ##### 14ª Semana
   - [ ] Infraestrutura como código: Preparando máquinas na AWS com Ansible e Terraform
   - [ ] Terraform: Automatize a infraestrutura na nuvem
-  - [ ] Comunicação não violenta: consciência para agir
+  - [x] Comunicação não violenta: consciência para agir
 
 ##### 15ª Semana
   - [ ] PowerShell: Começando com a linguagem de scripting moderna
@@ -99,7 +99,7 @@ _2022 começou cheio de experiências incríveis_
 
 ##### 17ª Semana
   - [ ] Docker: Criando containers sem dor de cabeça
-  - [ ] Comunicação não violenta: mantendo a empatia
+  - [x] Comunicação não violenta: mantendo a empatia
 
 ##### 18ª Semana
   - [ ] Docker Swarm: Orquestrador de containers
