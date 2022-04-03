@@ -70,7 +70,7 @@ _2022 começou cheio de experiências incríveis_
   - [x] Segurança de redes: Crie um firewall com pfSense e iptables
 
 ##### 10ª Semana
-  - [ ] Segurança de redes: Protegendo dados com VPNs
+  - [x] Segurança de redes: Protegendo dados com VPNs
   - [x] Integração Contínua: Mais qualidade e menos risco no desenvolvimento
   - [x] Entrega Contínua: Confiabilidade e qualidade na implantação de software
 
