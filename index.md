@@ -24,7 +24,7 @@ _2022 começou cheio de experiências incríveis_
 
 **Acompanhe meu progresso no Desenvolve:**
 
-- ##### :pushpin:Legenda:
+##### :pushpin:Legenda:
   > - [x] Finalizado
   > - [ ] Pendente
 
