@@ -112,7 +112,7 @@ _2022 começou cheio de experiências incríveis_
 
 ##### 20ª Semana
   - [ ] Google Kubernetes Engine: Primeiros passos com GKE
-  - [ ] Oratória: compartilhe ideias e histórias
+  - [x] Oratória: compartilhe ideias e histórias
 
 ##### 21ª Semana
   - [ ] Google Kubernetes Engine: Avançando com GKE
