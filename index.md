@@ -92,10 +92,10 @@ _2022 começou cheio de experiências incríveis_
   - [x] Comunicação não violenta: consciência para agir
 
 ##### 15ª Semana
-  - [ ] PowerShell: Começando com a linguagem de scripting moderna
+  - [x] PowerShell: Começando com a linguagem de scripting moderna
 
 ##### 16ª Semana
-  - [ ] PowerShell: Sessões, Jobs e Administração Remota
+  - [x] PowerShell: Sessões, Jobs e Administração Remota
 
 ##### 17ª Semana
   - [ ] Docker: Criando containers sem dor de cabeça
