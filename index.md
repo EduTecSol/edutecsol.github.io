@@ -75,7 +75,7 @@ _2022 começou cheio de experiências incríveis_
   - [x] Entrega Contínua: Confiabilidade e qualidade na implantação de software
 
 ##### 11ª Semana
-  - [ ] Vagrant: Gerenciando máquinas virtuais
+  - [x] Vagrant: Gerenciando máquinas virtuais
   - [x] Hábitos: da produtividade às metas pessoais
 
 ##### 12ª Semana
