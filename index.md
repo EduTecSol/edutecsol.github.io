@@ -23,10 +23,6 @@ _2022 começou cheio de experiências incríveis_
 
 >> **O Desenvolve está sendo um mergulho profundo e enriquecedor num mundo onde eu só brincava à beira da piscina**
 
-<html>
-  <progress id="file" value="31.2" max="100"> 31.2% </progress> 
-</html>
-
 **Acompanhe meu progresso no Desenvolve:**
 
 ##### Legenda:
@@ -34,6 +30,10 @@ _2022 começou cheio de experiências incríveis_
   > - [ ] Pendente
 
 ###### Janeiro | Início do programa
+
+<html>
+  <progress id="file" value="31.2" max="100"> 31.2% </progress> 
+</html>
 
 ##### 1ª Semana
   - [x] Lógica de programação: os primeiros programas com Javascript e HTML
