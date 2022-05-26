@@ -19,7 +19,7 @@ ___
 
 #### O que é DevOps?
 
-É uma mudança **cultural** de ampla comunicação, compartilhamento e transparência do que está sendo feito na infraestrutura e no desenvolvimento.
+É uma mudança cultural de ampla comunicação, compartilhamento e transparência do que está sendo feito na infraestrutura e no desenvolvimento.
 
 ___
 
