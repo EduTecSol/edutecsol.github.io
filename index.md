@@ -35,7 +35,10 @@ _2022 começou cheio de experiências incríveis_
   <progress id="file" value="48.75" max="100"> 48.75% </progress> 
 </html>
 
-##### **Acompanhe meu progresso no Desenvolve:**
+##### **Acompanhe meu progresso no Desenvolve:** 
+<html>
+  <progress id="file" value="48.75" max="100"> 48.75% </progress> 
+</html>
 
 ##### Legenda:
   > - [x] Finalizado
