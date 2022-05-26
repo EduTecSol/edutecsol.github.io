@@ -26,7 +26,7 @@ _2022 começou cheio de experiências incríveis_
 
 >> **O Desenvolve está sendo um mergulho profundo e enriquecedor num mundo onde eu só brincava à beira da piscina**
 
-**Acompanhe meu progresso no Desenvolve:**
+##### **Acompanhe meu progresso no Desenvolve:**
 
 ##### Legenda:
   > - [x] Finalizado
