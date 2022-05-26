@@ -79,11 +79,11 @@ _2022 começou cheio de experiências incríveis_
   - [x] Hábitos: da produtividade às metas pessoais
 
 ##### 12ª Semana
-  - [ ] Ansible: Sua infraestrutura como código
+  - [x] Ansible: Sua infraestrutura como código
   - [x] Foco: trazendo mais resultados para o dia a dia
 
 ##### 13ª Semana
-  - [ ] Vagrant e Puppet: Criação e provisionamento de maquinas virtuais
+  - [x] Vagrant e Puppet: Criação e provisionamento de maquinas virtuais
   - [x] Comunicação: como se expressar bem e ser compreendido
 
 ##### 14ª Semana
@@ -98,7 +98,7 @@ _2022 começou cheio de experiências incríveis_
   - [x] PowerShell: Sessões, Jobs e Administração Remota
 
 ##### 17ª Semana
-  - [ ] Docker: Criando containers sem dor de cabeça
+  - [x] Docker: Criando containers sem dor de cabeça
   - [x] Comunicação não violenta: mantendo a empatia
 
 ##### 18ª Semana
@@ -108,7 +108,7 @@ _2022 começou cheio de experiências incríveis_
 ##### 19ª Semana
   - [ ] Kubernetes: Pods, Services e ConfigMaps
   - [ ] Kubernetes: Deployments, Volumes e Escalabilidade
-  - [ ] Comunicação corporativa: usando PowerPoint de forma efetiva
+  - [x] Comunicação corporativa: usando PowerPoint de forma efetiva
 
 ##### 20ª Semana
   - [ ] Google Kubernetes Engine: Primeiros passos com GKE
@@ -116,13 +116,13 @@ _2022 começou cheio de experiências incríveis_
 
 ##### 21ª Semana
   - [ ] Google Kubernetes Engine: Avançando com GKE
-  - [ ] Oratória: apresentações em público
+  - [x] Oratória: apresentações em público
   - [ ] Microsserviços: padrões de projeto
 
 ##### 22ª Semana
   - [ ] Fundamentos de Microsserviços: Se aprofundando nos conceitos
   - [ ] Microsserviços na prática: Entendendo a tomada de decisões
-  - [ ] Kanban: fundamentos essenciais
+  - [x] Kanban: fundamentos essenciais
 
 ##### 23ª Semana
   - [ ] Build de uma aplicação .NET: construindo seus projetos com MSBuild
