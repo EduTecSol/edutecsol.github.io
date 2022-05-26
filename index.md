@@ -200,11 +200,13 @@ _2022 começou cheio de experiências incríveis_
 
 ___
 
-[Página do Programa](https://desenvolve.grupoboticario.com.br/) | [Time de Tecnologia do Grupo Boticário - gb.tech](https://medium.com/gbtech) | [Grupo Boticário](https://www.grupoboticario.com.br/) | [Vagas de Emprego no Grupo Boticário](https://grupoboticario.gupy.io/)
-
+[Página do Programa](https://desenvolve.grupoboticario.com.br/) | [Time de Tecnologia do Grupo Boticário - gb.tech](https://medium.com/gbtech) | [Grupo Boticário](https://www.grupoboticario.com.br/)
 <!-- ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EduTecSol\\/edutecsol.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+ | [Vagas de Emprego no Grupo Boticário](https://grupoboticario.gupy.io/)
+
 
 ### Support or Contact
 
