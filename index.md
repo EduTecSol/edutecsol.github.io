@@ -16,7 +16,9 @@ Idiomas
 
 ___
 
-### Tragetória no Desenvolve
+### Tragetória no Bootcamp
+
+### Desenvolve
 
 
 _2022 começou cheio de experiências incríveis_
