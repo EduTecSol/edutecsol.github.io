@@ -13,6 +13,7 @@ Idiomas
 - Autônomo: Manutenção e Suporte em computadores
 - Telemarketing na Almaviva do Brasil entre março de 2012 e novembro de 2012
 - Help-desk na prefeitura de juíz de fora entre maio de 2015 e dezembro de 2016
+- Analista de Suporte na FDC Sistemas desde maio de 2022 (atual)
 
 ___
 
