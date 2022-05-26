@@ -17,7 +17,9 @@ Idiomas
 
 ___
 
-Visão do que é DevOps: Uma mudança cultural de ampla comunicação, compartilhamento e transparência do que está sendo feito na infraestrutura e no desenvolvimento.
+#### O que é DevOps?
+
+É uma mudança **cultural** de ampla comunicação, compartilhamento e transparência do que está sendo feito na infraestrutura e no desenvolvimento.
 
 ___
 
