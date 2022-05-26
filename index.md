@@ -17,6 +17,10 @@ Idiomas
 
 ___
 
+Visão do que é DevOps: Uma mudança cultural de ampla comunicação, compartilhamento e transparência do que está sendo feito na infraestrutura e no desenvolvimento.
+
+___
+
 ### Tragetória no Bootcamp Desenvolve
 
 _2022 começou cheio de experiências incríveis_
