@@ -30,7 +30,7 @@ _2022 começou cheio de experiências incríveis_
   > - [ ] Pendente
 
 <html>
-  <progress id="file" value="48,75" max="100"> 48.75% </progress> 
+  <progress id="file" value="48.75" max="100"> 48.75% </progress> 
 </html>
 
 ###### Janeiro | Início do programa
