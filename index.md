@@ -18,14 +18,14 @@ ___
 
 ### Tragetória no Desenvolve
 
-<html>
-  <label for="file">Meu progresso</label>
-  <progress id="file" value="32" max="100"> 32% </progress> 
-</html>
-  
+
 _2022 começou cheio de experiências incríveis_
 
 >> **O Desenvolve está sendo um mergulho profundo e enriquecedor num mundo onde eu só brincava à beira da piscina**
+
+<html>
+  <progress id="file" value="31,2" max="100"> 31,2% </progress> 
+</html>
 
 **Acompanhe meu progresso no Desenvolve:**
 
