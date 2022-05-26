@@ -18,13 +18,14 @@ Idiomas
 ___
 
 ### Tragetória no Bootcamp Desenvolve
-<html>
-  <progress id="file" value="48.75" max="100"> 48.75% </progress> 
-</html>
 
 _2022 começou cheio de experiências incríveis_
 
 >> **O Desenvolve está sendo um mergulho profundo e enriquecedor num mundo onde eu só brincava à beira da piscina**
+
+<html>
+  <progress id="file" value="48.75" max="100"> 48.75% </progress> 
+</html>
 
 ##### **Acompanhe meu progresso no Desenvolve:**
 
