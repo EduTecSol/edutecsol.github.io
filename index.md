@@ -18,6 +18,9 @@ ___
 
 ### Tragetória no Desenvolve
 
+<label for="file">Downloading progress:</label>
+<progress id="file" value="32" max="100"> 32% </progress> 
+
 _2022 começou cheio de experiências incríveis_
 
 >> **O Desenvolve está sendo um mergulho profundo e enriquecedor num mundo onde eu só brincava à beira da piscina**
