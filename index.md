@@ -16,9 +16,7 @@ Idiomas
 
 ___
 
-### Tragetória no Bootcamp
-
-#### Desenvolve
+### Tragetória no Bootcamp Desenvolve
 
 <html>
   <progress id="file" value="48.75" max="100"> 48.75% </progress> 
@@ -34,9 +32,6 @@ _2022 começou cheio de experiências incríveis_
   > - [x] Finalizado
   > - [ ] Pendente
 
-<html>
-  <progress id="file" value="48.75" max="100"> 48.75% </progress> 
-</html>
 
 ###### Janeiro | Início do programa
 
@@ -195,6 +190,10 @@ _2022 começou cheio de experiências incríveis_
   - [ ] Amazon EKS: Gerenciando aplicações conteinerizadas com Kubernetes
 
 ###### Outubro | Fim do programa
+
+<html>
+  <progress id="file" value="48.75" max="100"> 48.75% </progress> 
+</html>
 
 ___
 
