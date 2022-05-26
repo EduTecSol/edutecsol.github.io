@@ -32,7 +32,7 @@ _2022 começou cheio de experiências incríveis_
 >> **O Desenvolve está sendo um mergulho profundo e enriquecedor num mundo onde eu só brincava à beira da piscina**
 
 <html>
-  <h5><b>Acompanhe meu progresso no Desenvolve:</b></h5><progress id="file" value="48.75" max="100"> 48.75% </progress> 
+  <progress id="file" value="48.75" max="100"> 48.75% </progress> 
 </html>
 
 ##### **Acompanhe meu progresso no Desenvolve:** 
