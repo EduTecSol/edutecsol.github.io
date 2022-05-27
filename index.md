@@ -206,6 +206,8 @@ _2022 começou cheio de experiências incríveis_
 
 ___
 
+#### Links
+
 [Página do Programa](https://desenvolve.grupoboticario.com.br/) | [Time de Tecnologia do Grupo Boticário - gb.tech](https://medium.com/gbtech) | [Grupo Boticário](https://www.grupoboticario.com.br/)
 
 
