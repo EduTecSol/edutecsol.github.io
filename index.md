@@ -1,6 +1,6 @@
 # Eduardo Albuquerque Maia
 
-![]([https://avatars.githubusercontent.com/u/97709661?s=400&u=b6bb7c146f057405a14b0f6bccd6d2d32b8268f3&v=4](https://royalreporter.org/wp-content/uploads/2021/11/galaxy-900x355.jpg)
+![via láctea]([https://avatars.githubusercontent.com/u/97709661?s=400&u=b6bb7c146f057405a14b0f6bccd6d2d32b8268f3&v=4](https://royalreporter.org/wp-content/uploads/2021/11/galaxy-900x355.jpg)
 
 [Github](https://github.com/EduTecSol) \| [Linkedin](https://www.linkedin.com/in/eduardo-albuquerque-70b58822b)
 
