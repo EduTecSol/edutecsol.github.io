@@ -1,5 +1,7 @@
 # Eduardo Albuquerque Maia
 
+![perfil](https://avatars.githubusercontent.com/u/97709661?s=400&u=b6bb7c146f057405a14b0f6bccd6d2d32b8268f3&v=4)
+
 [Github](https://github.com/EduTecSol) \| [Linkedin](https://www.linkedin.com/in/eduardo-albuquerque-70b58822b)
 
 Idiomas
