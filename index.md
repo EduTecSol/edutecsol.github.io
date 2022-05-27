@@ -8,7 +8,7 @@ Idiomas
 
   - Inglês: Intermediário
 
-## Experiências de Trabalho
+### Experiências de Trabalho
 
 - Autônomo: Manutenção e Suporte em computadores
 - Telemarketing na Almaviva do Brasil entre março de 2012 e novembro de 2012
@@ -17,7 +17,7 @@ Idiomas
 
 ___
 
-#### O que é DevOps?
+### O que é DevOps?
 
 É uma mudança cultural!
 
