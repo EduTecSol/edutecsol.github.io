@@ -4,9 +4,9 @@
 
 ###### Idiomas
 
- ##### - Português: Nativo
+  - ##### Português: Nativo
 
- ##### - Inglês: Intermediário
+  - ##### Inglês: Intermediário
 
 ### Experiências de Trabalho
 
