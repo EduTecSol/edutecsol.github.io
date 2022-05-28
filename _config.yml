@@ -1,9 +1,5 @@
 title: EduTecSol
 logo: /assets/img/logo.png
-description: Iniciante DevOps #### O que é DevOps?
-
-É uma mudança cultural!
-
-De ampla comunicação, compartilhamento e transparência do que está sendo feito na infraestrutura e no desenvolvimento.
+description: Iniciante DevOps | O que é DevOps? É uma mudança cultural! De ampla comunicação, compartilhamento e transparência do que está sendo feito na infraestrutura e no desenvolvimento.
 google_analytics:
 theme: jekyll-theme-minimal
